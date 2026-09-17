@@ -1,0 +1,4 @@
+directory.txt
+file1.txt
+hello.txt
+notes.txt

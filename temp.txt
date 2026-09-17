@@ -1,0 +1,8 @@
+directory.txt
+file1.txt
+hello.txt
+notes
+notes.txt
+practice
+projects
+sorted_directory.txt
